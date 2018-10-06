@@ -1,5 +1,6 @@
 # SMUDataSciencePortfolio
 
-This site is currently under development... In the future, this will hold Alex Frye's Noteworthy projects from his Masters in Data Science Program at SMU. 
-
-For now, there is a resume loaded for your convenience.
+Please find the following in this Portfolio Repo, containing works related to my Masters in Data Science program at SMU:
+1. Resume
+2: Capstone Project - Employee Attrition
+3: Data Mining
